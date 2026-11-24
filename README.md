@@ -8,7 +8,7 @@ Repositório de apoio ao Trabalho de Graduação em Sistemas de Informação (TG
 - **Autora:** Emily Cristina Ribeiro
 - **Orientador:** Dr. Cristiano Bertolini
 - **Instituição:** Universidade Federal de Santa Maria (UFSM), Campus Frederico Westphalen, Bacharelado em Sistemas de Informação
-- **Versão do plano:** **[PREENCHER: ex. 1.0]** (ver *Releases*)
+
 
 ---
 
@@ -107,7 +107,7 @@ Os defeitos são **apenas registrados**, e não corrigidos.
 
 | Item | Registro |
 |------|----------|
-| Modelo | **[PREENCHER: nome exato do modelo exibido na interface]** |
+| Modelo | Gemini Plus |
 | Data da consulta | 15/09/2026 |
 | Entrada | Descrição funcional extraída do Odoo via XML-RPC |
 | Prompt | `prompt-gemini/prompt.md` |
@@ -124,19 +124,3 @@ A IA atua como **apoio**. O valor final de cada nota é validado pela testadora 
 
 O plano segue a estrutura de *Test Plan* da 29119-3 e os processos da 29119-2, com adaptação para um estudo acadêmico conduzido por uma única testadora. Itens que pressupõem estrutura organizacional (política de teste e estratégia de teste organizacional) não foram elaborados.
 
-## Como citar
-
-```
-RIBEIRO, Emily Cristina; BERTOLINI, Cristiano. Aplicação de Testes Baseados em Risco (TBR)
-Apoiados por Inteligência Artificial Generativa para priorização de Casos de Teste no Módulo
-de Gestão de Inventário do ERP Odoo Community. Frederico Westphalen: UFSM, 2026.
-Disponível em: [PREENCHER: URL do repositório / tag da release]. Acesso em: [PREENCHER].
-```
-
-## Licença
-
-**[PREENCHER: escolha uma licença, por exemplo CC BY 4.0 para documentos e MIT para scripts. Sem licença, o conteúdo não pode ser reutilizado por terceiros.]**
-
-## Contato
-
-Emily Cristina Ribeiro — **[PREENCHER: e-mail]**
