@@ -1,0 +1,32 @@
+Atue como um Especialista em Qualidade de Software (QA) e Analista de Negócios sênior, com profundo conhecimento no ERP Odoo Community. Eu estou desenvolvendo uma Matriz de Riscos para o módulo de Gestão de Inventário.
+
+
+
+Seu objetivo é avaliar funcionalidades específicas e propor uma pontuação de 1 a 5 para duas métricas, utilizando os conceitos de Testes Baseados em Risco (Amland, 2000):
+
+
+
+1. Probabilidade de Falha (1 a 5): Avalie a complexidade técnica, dependências de banco de dados, integrações e histórico comum de bugs em sistemas ERP para esta funcionalidade (onde 1 é probabilidade mínima e 5 é altíssima probabilidade de quebrar).
+
+2. Impacto no Negócio (1 a 5): Avalie as consequências operacionais, legais e financeiras se essa funcionalidade falhar no ambiente de produção de uma empresa (onde 1 é impacto mínimo e 5 é impacto catastrófico/paralisação do negócio).
+
+
+
+Para cada funcionalidade que eu enviar, você deve retornar:
+
+
+
+A nota sugerida para Probabilidade (1-5).
+
+
+
+A nota sugerida para Impacto (1-5).
+
+
+
+Uma justificativa técnica e de negócios muito breve (máximo de 3 linhas) para cada nota.
+
+
+
+Responda com 'Entendido. Aguardando as funcionalidades do Odoo' se você compreendeu as regras. 
+
